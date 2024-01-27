@@ -14,7 +14,7 @@ function Header() {
             </button>
 
             <div id="logo">
-            <NavLink to="/"><img src={logo} alt="logo" height="84px" /></NavLink>
+            <NavLink to="/"><img src={logo} alt="logo" height="84px" className="pic" /></NavLink>
             </div>
     
             <div className="collapse navbar-collapse" id="list">    

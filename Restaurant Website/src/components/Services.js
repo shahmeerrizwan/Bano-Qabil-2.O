@@ -6,7 +6,7 @@ import three from '../image/restaurant4.svg';
 function Services() {
     return(
     <div id="services">
-        <br /><br />
+        <br />
         <hr />
         <br /><br />
         <span className="firstheading"><h1 >Services</h1></span>

@@ -24,7 +24,7 @@ function Footer() {
             <br />
             <div className="card-body">
             <h3 className="card-title">Opening Hours</h3>
-            <p className="text">Monday to Friday : 12P M to 12 AM</p>
+            <p className="text">Monday to Friday : 12 PM to 12 AM</p>
             <p className="text">Saturday : 12 PM to 12 AM</p>
             <p className="text">Sunday : 12 PM to 3 AM</p>
             </div>

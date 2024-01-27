@@ -21,11 +21,17 @@ body a:hover{
   right: 0px;
   margin-top: -20px;
 }
+.bold{
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+}
 
 hr{
   background-color: orange;
   height: 5px;
   width: 15%;
+  display: inline-block;
 }
 
 /* For Carousel */
@@ -105,8 +111,8 @@ hr{
   background-position: center;
   background-size: cover;
   border-radius: 50%;
-  width: 90%;
-  height: 90px;
+  width: 100%;
+  height: 322px;
   margin: auto; 
 }
 
@@ -179,6 +185,49 @@ hr{
   border-radius: 50%;
   margin-left: 10px;
 }
+@media only screen and (max-width: 1250px){
+  .bgpic{
+    height:275px ;
+  }
+}
+@media only screen and (max-width: 1100px){
+  .bgpic{
+    height:252px ;
+  }
+}
+@media only screen and (max-width: 1000px){
+  .bgpic{
+    height:217px ;
+  }
+}
+@media only screen and (max-width: 850px){
+  .bgpic{
+    height:172px ;
+  }
+}
+
+@media only screen and (max-width: 610px){
+
+  .fullmenu{
+ display: inline;
+  }
+.bgpic{
+  height: 237px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  width: 48%;
+  border-radius: 444%;
+
+}
+}
+@media only screen and (max-width: 475px){
+  .bgpic{
+    height: 191px;
+  }
+}
+
+
+
 
 /* Extra large devices (large laptops and desktops, 1201px and up) */
 @media only screen and (min-width: 1201px) {
@@ -304,6 +353,8 @@ header a{
   margin-left: 2.5%;
 }
 }
+
+
 
 /* Large devices (laptops/desktops, from 993px to 1200px) */
 @media only screen and (max-width: 1200px) {
@@ -709,7 +760,10 @@ header a{
   text-align: center;
   margin: 40px auto 0px auto;
 }
-
+.pic{
+  right: 42px;
+  position: relative;
+}
 .secondheading h1{
   color:black;
 
