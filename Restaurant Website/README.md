@@ -2,6 +2,10 @@ Home Page :
 
 ![home page](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/750b4fc9-6b21-4149-a628-4a33eab895a6)
 
+About Page :
+
+![about](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/1340fd64-1e02-4d84-92f3-26cc705c4cdc)
+
 
 
 # Getting Started with Create React App
