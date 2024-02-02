@@ -45,6 +45,12 @@ Team Page :
 ![Team](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/e3fb8f1a-5b87-47fd-95ac-5303fc23a4fd)
 
 
+Contact Page :
+
+
+![contact](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/005cd0d8-727d-4901-9cc0-420443d6bb83)
+
+
 
 # Getting Started with Create React App
 
