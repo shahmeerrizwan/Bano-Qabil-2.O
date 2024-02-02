@@ -39,6 +39,12 @@ Menu / Ice-Cream :
 ![ice cream](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/4dac8de7-54fe-4ae0-890a-280cd7dc5e84)
 
 
+Team Page :
+
+
+![Team](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/e3fb8f1a-5b87-47fd-95ac-5303fc23a4fd)
+
+
 
 # Getting Started with Create React App
 
