@@ -51,6 +51,12 @@ Contact Page :
 ![contact](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/005cd0d8-727d-4901-9cc0-420443d6bb83)
 
 
+Simple Footer :
+
+![footer](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/4fdcdd15-3aae-4a10-8069-ef32ade51115)
+
+
+
 
 # Getting Started with Create React App
 
