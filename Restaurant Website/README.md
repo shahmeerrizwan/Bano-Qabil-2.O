@@ -33,6 +33,12 @@ Menu / Drinks :
 ![drink sec](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/c72b9e53-fec4-4cbb-b9a6-95f71bafaded)
 
 
+Menu / Ice-Cream :
+
+
+![ice cream](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/4dac8de7-54fe-4ae0-890a-280cd7dc5e84)
+
+
 
 # Getting Started with Create React App
 
