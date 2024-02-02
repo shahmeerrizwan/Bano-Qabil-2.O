@@ -15,6 +15,13 @@ Menu Page :
 ![menu](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/2783612a-504b-4d6a-8baa-0522e1f624c3)
 
 
+
+Menu / dinner :
+
+![menu1](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/f829762c-8b66-453e-9f9d-45ffcb48651f)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
