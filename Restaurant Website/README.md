@@ -21,6 +21,12 @@ Menu / dinner :
 ![menu1](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/f829762c-8b66-453e-9f9d-45ffcb48651f)
 
 
+Menu / Fast Foood :
+
+
+![fast food](https://github.com/shahmeerrizwan/Bano-Qabil-2.O-React/assets/148860820/95d02f50-4f50-47dd-becf-7a3b509c9aff)
+
+
 
 # Getting Started with Create React App
 
